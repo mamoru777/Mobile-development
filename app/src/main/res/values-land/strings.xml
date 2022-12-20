@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">добавить</string>
+    <string name="delete">удалить</string>
+    <string name="update">редактировать</string>
+    <string name="poisk">поиск</string>
+</resources>
