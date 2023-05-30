@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Kursach</string>
     <string name="add">add</string>
     <string name="delete">Delete</string>
     <string name="update">Update</string>
@@ -16,5 +16,20 @@
     <string name="title_activity_search">activity_search</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registration">зарегистрироваться</string>
+    <string name="login">войти</string>
+    <string name="zakupka">Закупки</string>
+    <string name="sborka">Сборки</string>
+    <string name="komplect">Комплектующие</string>
+    <string name="textbuttonCreate">Создать</string>
+    <string name="textbuttonUpdate">Обновить</string>
+    <string name="textbuttonDelete">Удалить</string>
+    <string name="text_buttonOk">ОК</string>
+    <string name="textbuttonInfo">Информация о сборке</string>
+    <string name="clear">Очистить бд</string>
+    <string name="widget_name">My first widget</string>
+    <string name="widget_text">Text in widget</string>
+    <string name="app_widget_description">Count of entities</string>
+    <string name="otchet">Отчет в пдф</string>
 
 </resources>
